@@ -1,5 +1,12 @@
 # 💫 About Me:
-👨‍💻 Data Analytics | Data Modeler | Data Scientist | Flask Developer <br><br>📊 Passionate about transforming raw data into actionable insights through analytics, visualization, and machine learning <br><br>🐍 Experienced in Python, Pandas, NumPy, Scikit-learn, SQL, and data-driven application development <br><br>☁️ Skilled in cloud deployment, database design, ETL pipelines, Exploratory Data Analysis(EDA) and data engineering workflows <br><br>📈 Creating interactive dashboards and business intelligence solutions with Power BI and data visualization tools <br><br>🔍 Interested in Machine Learning, Predictive Analytics, Data Engineering, and AI-powered solutions <br><br>🌱 Continuously learning new technologies and best practices in Data Science <br><br>🤝 Open to Work, Freelance Opportunities, and Project Collaborations <br><br>📫 Let's connect and build impactful data-driven solutions together!<br>
+👨‍💻 Data Analytics | Data Modeler | Data Scientist | Flask Developer <br>
+📊 Passionate about transforming raw data into actionable insights through analytics, visualization, and machine learning <br>
+🐍 Experienced in Python, Pandas, NumPy, Scikit-learn, SQL, and data-driven application development <br>☁️ Skilled in cloud deployment, database design, ETL pipelines, Exploratory Data Analysis(EDA) and data engineering workflows <br>
+📈 Creating interactive dashboards and business intelligence solutions with Power BI and data visualization tools <br>
+🔍 Interested in Machine Learning, Predictive Analytics, Data Engineering, and AI-powered solutions <br>
+🌱 Continuously learning new technologies and best practices in Data Science <br>
+🤝 Open to Work, Freelance Opportunities, and Project Collaborations <br>
+📫 Let's connect and build impactful data-driven solutions together!<br>
 
 
 ## 🌐 Socials:
