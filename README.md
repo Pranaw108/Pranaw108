@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Pranaw+Gautam+%F0%9F%91%8B;Data+Scientist+%C2%B7+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Flask+%2F+FastAPI+%2B+React+developer" alt="Hi there, I'm Pranaw Gautam — Data Scientist, Data Analyst, Flask/FastAPI + React developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Pranaw+Gautam+%F0%9F%91%8B;Flutter+%26+FastAPI+Developer;Data+Scientist+%C2%B7+Data+Analyst;Python+%C2%B7+Dart+%C2%B7+SQL+%C2%B7+Machine+Learning" alt="Hi there, I'm Pranaw Gautam — Flutter & FastAPI Developer, Data Scientist" />
 
-**Turning raw data into dashboards, models and apps people actually use.**
+**Flutter & FastAPI developer · Data Scientist**<br>
+Turning raw data into models, APIs and apps people actually use.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-two-gilt-97.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaw-gautam9)
@@ -13,9 +14,9 @@
 
 ## About me
 
-I work across the full data lifecycle, from ETL pipelines and database design to exploratory analysis, machine learning and the BI dashboards that put the results in front of decision-makers. I also build the web apps around them with Flask, FastAPI and React.
+I build cross-platform mobile apps with **Flutter** and the **FastAPI** backends behind them, and I bring a data scientist's toolkit to both: ETL pipelines, exploratory analysis, recommendation and ML models, and dashboards that put the results in front of decision-makers.
 
-- 🔭 **Currently building:** end-to-end analytics and ML projects, like the [Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)
+- 🔭 **Currently building:** Flutter apps with on-device recommendations, and end-to-end analytics projects like the [Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)
 - 🌱 **Learning:** machine learning, predictive analytics and data engineering
 - 🤝 **Open to:** full-time roles, freelance work and project collaborations
 - 📫 **Reach me:** [pranawgautam@gmail.com](mailto:pranawgautam@gmail.com)
@@ -24,10 +25,11 @@ I work across the full data lifecycle, from ETL pipelines and database design to
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Python, Java, JavaScript, HTML, CSS" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,dart,java,js,html,css" alt="Python, Dart, Java, JavaScript, HTML, CSS" /> |
+| **Mobile & backend** | <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase" alt="Flutter, FastAPI, Flask, Firebase" /> |
 | **Data science & ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda" alt="scikit-learn, PyTorch, Anaconda" /><br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **BI & design** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| **Backend & web** | <img src="https://skillicons.dev/icons?i=flask,fastapi,react,tailwind,bootstrap" alt="Flask, FastAPI, React, Tailwind CSS, Bootstrap" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS, Bootstrap" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" /> |
 | **Cloud & tools** | <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github" alt="AWS, Vercel, Docker, Git, GitHub" /> |
 
