@@ -1,25 +1,74 @@
-# 💫 About Me:
-👨‍💻 Data Analytics | Data Modeler | Data Scientist | Flask Developer <br>
-📊 Passionate about transforming raw data into actionable insights through analytics, visualization, and machine learning <br>
-🐍 Experienced in Python, Pandas, NumPy, Scikit-learn, SQL, and data-driven application development <br>☁️ Skilled in cloud deployment, database design, ETL pipelines, Exploratory Data Analysis(EDA) and data engineering workflows <br>
-📈 Creating interactive dashboards and business intelligence solutions with Power BI and data visualization tools <br>
-🔍 Interested in Machine Learning, Predictive Analytics, Data Engineering, and AI-powered solutions <br>
-🌱 Continuously learning new technologies and best practices in Data Science <br>
-🤝 Open to Work, Freelance Opportunities, and Project Collaborations <br>
-📫 Let's connect and build impactful data-driven solutions together!<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Pranaw+Gautam+%F0%9F%91%8B;Data+Scientist+%C2%B7+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Flask+%2F+FastAPI+%2B+React+developer" alt="Hi there, I'm Pranaw Gautam — Data Scientist, Data Analyst, Flask/FastAPI + React developer" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranawgautam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaw-gautam9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranawgautam@gmail.com) 
+**Turning raw data into dashboards, models and apps people actually use.**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranaw108&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pranaw108&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranaw108&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-two-gilt-97.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaw-gautam9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranawgautam@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranawgautam)
 
----
-[![](https://komarev.com/ghpvc/?username=Pranaw108&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I work across the full data lifecycle, from ETL pipelines and database design to exploratory analysis, machine learning and the BI dashboards that put the results in front of decision-makers. I also build the web apps around them with Flask, FastAPI and React.
+
+- 🔭 **Currently building:** end-to-end analytics and ML projects, like the [Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)
+- 🌱 **Learning:** machine learning, predictive analytics and data engineering
+- 🤝 **Open to:** full-time roles, freelance work and project collaborations
+- 📫 **Reach me:** [pranawgautam@gmail.com](mailto:pranawgautam@gmail.com)
+
+## Tech stack
+
+| | |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Python, Java, JavaScript, HTML, CSS" /> |
+| **Data science & ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda" alt="scikit-learn, PyTorch, Anaconda" /><br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **BI & design** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Backend & web** | <img src="https://skillicons.dev/icons?i=flask,fastapi,react,tailwind,bootstrap" alt="Flask, FastAPI, React, Tailwind CSS, Bootstrap" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" /> |
+| **Cloud & tools** | <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github" alt="AWS, Vercel, Docker, Git, GitHub" /> |
+
+## Featured projects
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| 🚀 **[Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)** | End-to-end analysis of 8,000+ global space missions across decades: MySQL queries, Python analysis and an interactive Power BI dashboard | Python · SQL · MySQL · Power BI |
+| 🧑‍💻 **[Portfolio](https://github.com/Pranaw108/my-portfolio)** · [live](https://my-portfolio-two-gilt-97.vercel.app/) | Personal portfolio with animated sections and routing | React · Vite · Tailwind CSS · Framer Motion |
+| 🧩 **[Mini Projects](https://github.com/Pranaw108/mini-projects)** · [live](https://todo-app-72ci.vercel.app) | A collection of small front-end apps, starting with a to-do app | React · Vite |
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution overview" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Pranaw108&theme=dark&background=0D1117&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Pranaw108&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranaw108/Pranaw108/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Pranaw108/Pranaw108/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+<sub>Cards regenerate daily via GitHub Actions.</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=Pranaw108&color=2F81F7&style=flat-square&label=Profile+views)
+
+</div>
