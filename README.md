@@ -37,6 +37,7 @@ I build cross-platform mobile apps with **Flutter** and the **FastAPI** backends
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
+| 🎧 **EpicPlay Recommender**<br><sub>Private client project</sub> | Personalized home screen for an audio-storytelling platform. A Flutter app ranks *Recommended for you*, *Because you listened to…* and *Continue listening* entirely on-device, and explains every pick. A Python pipeline turns the platform's Firestore data into collaborative, content-based and hybrid models; its learned ranker raised the row's hit rate from 45% to 55% | Flutter · Dart · Python · pandas · scikit-learn |
 | 🚀 **[Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)** | End-to-end analysis of 8,000+ global space missions across decades: MySQL queries, Python analysis and an interactive Power BI dashboard | Python · SQL · MySQL · Power BI |
 | 🧑‍💻 **[Portfolio](https://github.com/Pranaw108/my-portfolio)** · [live](https://my-portfolio-two-gilt-97.vercel.app/) | Personal portfolio with animated sections and routing | React · Vite · Tailwind CSS · Framer Motion |
 | 🧩 **[Mini Projects](https://github.com/Pranaw108/mini-projects)** · [live](https://todo-app-72ci.vercel.app) | A collection of small front-end apps, starting with a to-do app | React · Vite |
