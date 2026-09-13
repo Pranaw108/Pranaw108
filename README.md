@@ -1,46 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Pranaw+Gautam+%F0%9F%91%8B;Flutter+%26+FastAPI+Developer;Data+Scientist+%C2%B7+Data+Analyst;Python+%C2%B7+Dart+%C2%B7+SQL+%C2%B7+Machine+Learning" alt="Hi there, I'm Pranaw Gautam — Flutter & FastAPI Developer, Data Scientist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Pranaw+Gautam+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+Data+Scientist;Recommender+systems+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Flutter" alt="Hi there, I'm Pranaw Gautam — AI/ML Engineer and Data Scientist" />
 
-**Flutter & FastAPI developer · Data Scientist**<br>
-Turning raw data into models, APIs and apps people actually use.
+**AI/ML Engineer · Data Scientist** · Python, FastAPI & Flutter<br>
+I build recommendation systems, prove them on held-out data, and ship them through APIs and apps.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-two-gilt-97.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaw-gautam9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaw-gautam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranawgautam@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranawgautam)
 
 </div>
 
 ## About me
 
-I build cross-platform mobile apps with **Flutter** and the **FastAPI** backends behind them, and I bring a data scientist's toolkit to both: ETL pipelines, exploratory analysis, recommendation and ML models, and dashboards that put the results in front of decision-makers.
+I'm an **AI/ML Engineer at Vibe6 Digital** in Indore, working on the recommendation system for a client's audio-storytelling app: the data pipeline, model benchmarking, a shelf-based home screen and a Flutter prototype that ranks titles on-device.
 
-- 🔭 **Currently building:** Flutter apps with on-device recommendations, and end-to-end analytics projects like the [Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)
-- 🌱 **Learning:** machine learning, predictive analytics and data engineering
-- 🤝 **Open to:** full-time roles, freelance work and project collaborations
+- 🔭 **Currently building:** recommender systems at work, and [AQI forecasting](https://my-portfolio-two-gilt-97.vercel.app/work/air-quality-analysis) on top of my air-quality pipeline
+- 🧪 **How I work:** time-based splits, honest baselines and significance tests before calling anything better
+- 🤝 **Open to:** conversations about AI/ML Engineer and Data Scientist roles
 - 📫 **Reach me:** [pranawgautam@gmail.com](mailto:pranawgautam@gmail.com)
 
 ## Tech stack
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,dart,java,js,html,css" alt="Python, Dart, Java, JavaScript, HTML, CSS" /> |
-| **Mobile & backend** | <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase" alt="Flutter, FastAPI, Flask, Firebase" /> |
-| **Data science & ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda" alt="scikit-learn, PyTorch, Anaconda" /><br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **BI & design** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| **Web** | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS, Bootstrap" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,dart,js" alt="Python, Dart, JavaScript" /> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Machine learning & data** | <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /><br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **APIs & apps** | <img src="https://skillicons.dev/icons?i=fastapi,flutter,react,tailwind" alt="FastAPI, Flutter, React, Tailwind CSS" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" /> |
-| **Cloud & tools** | <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github" alt="AWS, Vercel, Docker, Git, GitHub" /> |
+| **Cloud & tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel" alt="AWS, Docker, Git, GitHub, GitHub Actions, Vercel" /> |
 
 ## Featured projects
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
-| 🎧 **EpicPlay Recommender**<br><sub>Private client project</sub> | Personalized home screen for an audio-storytelling platform. A Flutter app ranks *Recommended for you*, *Because you listened to…* and *Continue listening* entirely on-device, and explains every pick. A Python pipeline turns the platform's Firestore data into collaborative, content-based and hybrid models; its learned ranker raised the row's hit rate from 45% to 55% | Flutter · Dart · Python · pandas · scikit-learn |
-| 🚀 **[Space Mission Analytics Dashboard](https://github.com/Pranaw108/Space_Launch_Analysis)** | End-to-end analysis of 8,000+ global space missions across decades: MySQL queries, Python analysis and an interactive Power BI dashboard | Python · SQL · MySQL · Power BI |
-| 🧑‍💻 **[Portfolio](https://github.com/Pranaw108/my-portfolio)** · [live](https://my-portfolio-two-gilt-97.vercel.app/) | Personal portfolio with animated sections and routing | React · Vite · Tailwind CSS · Framer Motion |
-| 🧩 **[Mini Projects](https://github.com/Pranaw108/mini-projects)** · [live](https://todo-app-72ci.vercel.app) | A collection of small front-end apps, starting with a to-do app | React · Vite |
+| 🎧 **[Personalized Audio Recommender](https://github.com/Pranaw108/personalized-audio-recommender)**<br><sub>Open source</sub> | Recommendations and an explainable shelf-based home screen for an audio catalog: 7 models behind one interface, time-based evaluation with a cold-start breakdown, a FastAPI service and browser demo, 79 tests with CI | Python · scikit-learn · FastAPI · pytest |
+| 📱 **Audio-storytelling recommender**<br><sub>Client work at Vibe6 Digital · private</sub> | Pipeline, benchmarks and a Flutter prototype. The shelf home screen reached 87.4% of held-out users with a title they went on to play, vs 82.6% for a single list of the same length (p = 0.0018); a learned ranker lifted top-10 hit rate from 77.9% to 80.1% (p = 0.02) · [case study](https://my-portfolio-two-gilt-97.vercel.app/work/audio-recommender) | Python · scikit-learn · Flutter · Dart |
+| 🚀 **[Space Launch Analytics](https://github.com/Pranaw108/Space_Launch_Analysis)** | Python ETL into a MySQL warehouse and a 6-page Power BI report on 7,500 launches since 1957: success rates, launch sites, operators, cost and an ISRO deep-dive | Python · MySQL · SQLAlchemy · Power BI |
+| 🧑‍💻 **[Portfolio](https://github.com/Pranaw108/my-portfolio)** · [live](https://my-portfolio-two-gilt-97.vercel.app/) | Case studies, experience and credentials | React · Vite · Tailwind CSS · Framer Motion |
 
 ## GitHub activity
 
